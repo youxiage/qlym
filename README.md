@@ -5,7 +5,7 @@
 
 腾讯云服务器45元每年 https://curl.qcloud.com/mIVCvnoM
 
- 拉全部库   ql repo https://github.com/hongke120/qlym.git "" "COOKIE"
+ 拉全部库   ql repo https://github.com/youxiage/qlym.git "" "COOKIE"
     
  
 
